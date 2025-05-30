@@ -28,7 +28,7 @@ At the end of this module students will be able to:
 
 Syllabus (indicative content)
 
-1.Foundations of Reinforcement Learning including Markov Decision Processes (MDPs), Bellman's Optimality equation, rewards, value functions and policies, and exploration versus exploitation.
+1. Foundations of Reinforcement Learning including Markov Decision Processes (MDPs), Bellman's Optimality equation, rewards, value functions and policies, and exploration versus exploitation.
 
 2. Classical tabular-based approaches such as Dynamic Programming, Monte Carlo, and Temporal Difference Methods (TD) with Eligibility Traces. TD methods such as Sarsa and Q-Learning will be discussed, as well as RL architectures such as Actor Critic.
 
